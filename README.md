@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of nodeloc/dislikes.** Not for installation: use [Packagist](https://packagist.org/packages/nodeloc/dislikes) or the [upstream repository](https://github.com/nodeloc/Dislikes).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/nodeloc-dislikes/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.8`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/nodeloc-dislikes/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-01-14 | `^1.8` | [Browse](https://github.com/flarchive/nodeloc-dislikes/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-01-14 | `^1.8` | [Browse](https://github.com/flarchive/nodeloc-dislikes/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/nodeloc-dislikes.json](https://github.com/flarchive/archive-index/blob/main/packages/nodeloc-dislikes.json)
 
